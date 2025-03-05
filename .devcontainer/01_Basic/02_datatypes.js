@@ -25,6 +25,6 @@ null have datatype => object
 but undefined datatype => undefined 
 */
 
-console.log(typeof undefined);
+console.log(typeof null);
 
 

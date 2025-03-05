@@ -18,7 +18,7 @@ let valueInNumber = Number(score);
 let isLoggedIn = ""
 let  boolisloggedIn = Boolean(isLoggedIn)
 
-// console.log(boolisloggedIn)
+console.log(typeof boolisloggedIn)
 
 
 // 1 => true
@@ -31,7 +31,7 @@ let someNumber = 33
 
 let stringNumber = String(someNumber)
 
-// console.log(typeof stringNumber);
+console.log(typeof stringNumber);
 
 // link to read https://tc39.es/ecma262/#sec-type-conversion
 
@@ -74,6 +74,6 @@ let gamecounter = 100
 
 // above both give same result
 // link to read https://tc39.es/ecma262/#sec-prefix-increment-operator
-console.log(gamecounter);
+// console.log(gamecounter);
 
 
